@@ -25,8 +25,8 @@
     "url": "https://github.com/Laaatte/awesome-laaatte-theme/issues"
   },
   "galleryBanner": {
-    "color": "#13694D",
-    "theme": "dark"
+    "color": "#D1EEE1",
+    "theme": "light"
   },
   "contributes": {
     "themes": [
