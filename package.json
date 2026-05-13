@@ -2,7 +2,7 @@
   "name": "awesome-laaatte-theme",
   "displayName": "Awesome Laaatte Theme",
   "description": "직접 만든 라이트 테마. 요소별 색상 구분 확실하게.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "laaatte",
   "license": "MIT",
   "engines": {
@@ -25,8 +25,8 @@
     "url": "https://github.com/Laaatte/awesome-laaatte-theme/issues"
   },
   "galleryBanner": {
-    "color": "#F4F4F4",
-    "theme": "light"
+    "color": "#13694D",
+    "theme": "dark"
   },
   "contributes": {
     "themes": [
